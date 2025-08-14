@@ -1,0 +1,2 @@
+public class parte2 {
+}
